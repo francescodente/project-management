@@ -78,3 +78,12 @@ Prevede tre ruoli:
 
 È importante non avere team di dimensioni troppo grandi, perchè richiedono un overhead per la comunicazione.
 Le dimensioni dei team dovrebbero essere indipendenti dalle dimensioni del progetto (deve sempre esserci un tetto massimo).
+
+## Integrità concettuale
+
+Per rispettare l'integrità concettuale, un sistema deve fare solo quello per cui è stato progettato (e nient'altro, altrimenti gli utenti non vorranno imparare a usarlo) e deve farlo nel modo migliore.
+
+> Per mantenere l'integrità concettuale è necessario separare l'architettura dall'implementazione
+
+- gli architetti decidono cosa il sistema deve essere, le funzionalità
+- gli sviluppatori decidono come il sistema dovrà essere implementato per portare a termine le funzionalità richieste
