@@ -87,3 +87,11 @@ Per rispettare l'integrità concettuale, un sistema deve fare solo quello per cu
 
 - gli architetti decidono cosa il sistema deve essere, le funzionalità
 - gli sviluppatori decidono come il sistema dovrà essere implementato per portare a termine le funzionalità richieste
+
+## Comunicazione
+
+Tipi di comunicazione:
+
+- **Informale**: es. pausa caffè
+- **Riunioni**: cadenza regolare, aggiornamenti/criticità/proposte
+- **Workbook**: contenitore di tutte le info del progetto formali.
