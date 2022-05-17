@@ -4,15 +4,16 @@
 
 In un garage possono solo nascere **idee** e **prototipi**, ma per avere un prodotto sono necessari:
 
-* analisi dei requisiti/architettura
-* test
-* documentazione
-* piano di manutenzione
-* un business plan (modello di business)
+- analisi dei requisiti/architettura
+- test
+- documentazione
+- piano di manutenzione
+- un business plan (modello di business)
 
 ## Goal e Progetto
 
 **Goal** = cosa deve essere fatto
+
 **Progetto** = come raggiungere il goal
 
 La gestione del progetto è fondamentale per raggiungere il goal.
@@ -36,19 +37,19 @@ Inoltre, una buona progettazione permette solo di gestire la complessità, non d
 
 **Sistema software** = insieme di prodotti che interagiscono tra loro per supportare processi complessi (complessità dell'integrazione/interfacce/input-output).
 
-* **Accidental complexity**: dovuta alle tecnologie, può essere ridotta migliorando le tecnologie.
-* **Essential complexity**: dovuta al problema, difficile da ridurre.
+- **Accidental complexity**: dovuta alle tecnologie, può essere ridotta migliorando le tecnologie.
+- **Essential complexity**: dovuta al problema, difficile da ridurre.
 
 > Brooks: Non esiste un **silver bullet** per ridurre la compessità essenziale.
 
 ## Why does software fail?
 
-* Mancato rispetto degli obiettivi (integrità concettuale)
-* Errori nelle stime dei tempi
-* Troppo ottimismo
-* Effort != progress
-* Mancato monitoraggio dello stato di avanzamento
-* Aggiunta di personale in corso d'opera
+- Mancato rispetto degli obiettivi (integrità concettuale)
+- Errori nelle stime dei tempi
+- Troppo ottimismo
+- Effort != progress
+- Mancato monitoraggio dello stato di avanzamento
+- Aggiunta di personale in corso d'opera
 
 > Brooks: Gli sviluppatori sono ottimisti.
 
@@ -58,3 +59,22 @@ I costi per il test sono spesso sottostimati, anche se spesso portano via più t
 
 ## Team
 
+La corretta composizione del team è fondamentale per la riuscita del progetto e dipende dalla metodologia che si intende utilizzare.
+
+- **tradizionale**: tante figure molto specializzate (surgical teams)
+- **agile**: poche figure, tutti devono saper fare tutto (scrum teams)
+
+### Scrum team
+
+Metodologia più recente per alla gestione dei progetti, in cui l'obiettivo comune del team è il successo del progetto.
+Propone uno sviluppo **iterativo e incrementale**: ogni iterazione è uno sprint con una durata predeterminata.
+Prevede tre ruoli:
+
+- **Product Owner**: responsabile del prodotto e di cosa conterrà, ma non di come verrà realizzato
+- **Scrum Master**: coach al servizio del team di sviluppo per agevolare la comunicazione e il rispetto degli obiettivi.
+- **Team di sviluppo**: persone con le competenze per sviluppare la soluzione in autonomia.
+
+### Composizione dei team
+
+È importante non avere team di dimensioni troppo grandi, perchè richiedono un overhead per la comunicazione.
+Le dimensioni dei team dovrebbero essere indipendenti dalle dimensioni del progetto (deve sempre esserci un tetto massimo).
