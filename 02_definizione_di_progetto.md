@@ -49,10 +49,10 @@ I progetti di un portfolio non devono necessariamente essere correlati o dipende
 I progetti servono a realizzare il piano strategico di un'organizzazione.
 Possibili motivazioni per un progetto:
 
-- richiesta del mercato
-- esigenze aziendali
-- commissione di un cliente
-- soluzione di problemi
+- Richiesta del mercato
+- Esigenze aziendali
+- Commissione di un cliente
+- Soluzione di problemi
 
 ## Scope del progetto
 
