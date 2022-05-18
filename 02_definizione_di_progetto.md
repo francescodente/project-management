@@ -13,9 +13,9 @@ Non è uno standard esaustivo, ma solo un **riferimento** di base.
 
 La fine del progetto si raggiunge quando (una delle seguenti):
 
-- sono stati raggiunti gli **obiettivi**
-- non è più possibile raggiungere gli obiettivi
-- non sussiste più l'esigenza del progetto
+- Sono stati raggiunti gli **obiettivi**
+- Non è più possibile raggiungere gli obiettivi
+- Non sussiste più l'esigenza del progetto
 
 L'unicità del risultato **differenzia** un progetto da un'_attività operativa_, che è invece un processo ripetitivo.
 
@@ -26,11 +26,11 @@ Perciò, alla definizione di Wysocki si può aggiungere che il risultato del pro
 
 Cosa può produrre un progetto?
 
-- un prodotto o un suo componente
-- un servizio o un suo prerequisito
-- un processo aziendale
-- una versione migliorata dei precedenti
-- conoscenza (progetti di ricerca)
+- Un prodotto o un suo componente
+- Un servizio o un suo prerequisito
+- Un processo aziendale
+- Una versione migliorata dei precedenti
+- Conoscenza (progetti di ricerca)
 
 ## Definizione di Programma
 
@@ -49,10 +49,10 @@ I progetti di un portfolio non devono necessariamente essere correlati o dipende
 I progetti servono a realizzare il piano strategico di un'organizzazione.
 Possibili motivazioni per un progetto:
 
-- richiesta del mercato
-- esigenze aziendali
-- commissione di un cliente
-- soluzione di problemi
+- Richiesta del mercato
+- Esigenze aziendali
+- Commissione di un cliente
+- Soluzione di problemi
 
 ## Scope del progetto
 
