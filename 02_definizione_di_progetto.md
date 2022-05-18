@@ -43,3 +43,13 @@ Il **program management** consiste nella _gestione centrallizzata e coordinata_ 
 
 Nel caso più progetti siano legati solo dalla condivisione di un cliente, fornitore, tecnologia o risorsa si parla di **Portfolio**.
 I progetti di un portfolio non devono necessariamente essere correlati o dipendenti.
+
+## Pianificazione strategica
+
+I progetti servono a realizzare il piano strategico di un'organizzazione.
+Possibili motivazioni per un progetto:
+
+- richiesta del mercato
+- esigenze aziendali
+- commissione di un cliente
+- soluzione di problemi
