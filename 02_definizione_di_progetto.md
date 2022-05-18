@@ -61,3 +61,10 @@ Quando si parla di software tipicamente coincide con le specifiche funzionali.
 Va definito prima di iniziare l'implementazione al fine di garantire l'integrità concettuale.
 Strettamente legato al concetto di **Conditions of satisfaction**.
 **Lo scope di un progetto può cambiare nel tempo.**
+
+## Qualità
+
+- **Qualità del prodotto**: riferita al deliverable del progetto.
+- **Qualità del processo**: riferita al processo di gestione del progetto.
+
+La corretta gestione della qualità consente di **garantire la soddisfazione** del cliente e di usare le risorse in modo **efficace** ed **efficiente**.
