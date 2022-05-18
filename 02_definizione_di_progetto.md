@@ -38,3 +38,8 @@ Insieme di **progetti correlati e gestiti in modo coordinato** per ottenere bene
 Ciascun progetto è una componente del risultato finale del programma.
 
 Il **program management** consiste nella _gestione centrallizzata e coordinata_ del programma con l'obiettivo di raggiungere benefici **strategici**.
+
+## Definizione di Portfolio
+
+Nel caso più progetti siano legati solo dalla condivisione di un cliente, fornitore, tecnologia o risorsa si parla di **Portfolio**.
+I progetti di un portfolio non devono necessariamente essere correlati o dipendenti.
