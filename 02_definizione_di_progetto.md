@@ -53,3 +53,11 @@ Possibili motivazioni per un progetto:
 - esigenze aziendali
 - commissione di un cliente
 - soluzione di problemi
+
+## Scope del progetto
+
+Definisce i confini del progetto in termini di **ciò che deve essere fatto** e di **ciò che NON deve essere fatto**.
+Quando si parla di software tipicamente coincide con le specifiche funzionali.
+Va definito prima di iniziare l'implementazione al fine di garantire l'integrità concettuale.
+Strettamente legato al concetto di **Conditions of satisfaction**.
+**Lo scope di un progetto può cambiare nel tempo.**
