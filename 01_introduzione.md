@@ -78,3 +78,51 @@ Prevede tre ruoli:
 
 È importante non avere team di dimensioni troppo grandi, perchè richiedono un overhead per la comunicazione.
 Le dimensioni dei team dovrebbero essere indipendenti dalle dimensioni del progetto (deve sempre esserci un tetto massimo).
+
+## Integrità concettuale
+
+Per rispettare l'integrità concettuale, un sistema deve fare solo quello per cui è stato progettato (e nient'altro, altrimenti gli utenti non vorranno imparare a usarlo) e deve farlo nel modo migliore.
+
+> Per mantenere l'integrità concettuale è necessario separare l'architettura dall'implementazione
+
+- gli architetti decidono cosa il sistema deve essere, le funzionalità
+- gli sviluppatori decidono come il sistema dovrà essere implementato per portare a termine le funzionalità richieste
+
+## Comunicazione
+
+Tipi di comunicazione:
+
+- **Informale**: es. pausa caffè
+- **Riunioni**: cadenza regolare, aggiornamenti/criticità/proposte
+- **Workbook**: contenitore di tutte le info del progetto formali.
+
+## Documentazione
+
+Documentare il lavoro è fondamentale per:
+
+- spiegare il progetto e le interfacce tra componenti
+- ricordarsi a distanza di tempo cosa si è fatto
+- condividere il lavoro
+- tenere traccia dello stato di avanzamento
+
+**Manuale**: documento scritto dall'architetto che descrive le specifiche (in particolare quelle di interfaccia utente).
+
+**Self-documenting programs**: il codice stesso è la documentazione principale, poichè in questo modo la doc resta tendenzialmente allineata con il codice in maniera immediata.
+In più esistono tool per autogenerarla a partire dal codice (es, Javadoc).
+
+### Documenti per un progetto software
+
+Da scrivere opportunamente all'inizio e da mantenere aggiornati durante il progetto.
+
+- **What: objective**: bisogni che devono essere soddisfatti
+- **What: product specifications**: manuale + descrizione dell'implementazione
+- **When: schedule**: organizzazione temporale del progetto (GANTT)
+- **How much: budget**: descrizione del budget
+- **Where: space allocation**: dove starà il team
+- **Who: organization chart**: organizzazione delle risorse umane (molto collegata all'architettura)
+
+Motivazioni per la documentazione:
+
+- Avere le decisioni per iscritto
+- Comunicare le decisioni tra i membri del team e gli utenti
+- Può essere usata come checklist
