@@ -126,3 +126,30 @@ Motivazioni per la documentazione:
 - Avere le decisioni per iscritto
 - Comunicare le decisioni tra i membri del team e gli utenti
 - Può essere usata come checklist
+
+## Agile
+
+Ultimamente si stanno sviluppando metodologie di sviluppo più "leggere" rispetto agli approcci tradizionali.
+Una tra queste è la metodologia **Agile**, riassunta nel **Manifesto for Agile Software Development**.
+
+È basato su quattro principi:
+
+- _Individuals and Interactions_ over processes and tools
+- _Working software_ over comprehensive documentation
+- _Customer collaboration_ over contract negotiation
+- _Responding to change_ over following a plan
+
+Inoltre:
+
+- Soddisfare il cliente è la priorità più alta (continuous delivery)
+- I cambiamenti ai requisiti sono sempre benvenuti
+- Rilasciare preferibilmente con alta frequenza
+- Sviluppatori e clienti devono lavorare insieme giornalmente
+- Motivare gli individui e dargli fiducia
+- Priorità alle conversazioni di persona
+- Progresso = software funzionante
+- Promuovere un ambiente pacifico
+- Eccellenza tecnica
+- Semplicità
+- Team auto-organizzati producono architetture/requisiti/design migliori
+- Il team riflette periodicamente su come migliorarsi
