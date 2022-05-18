@@ -25,8 +25,16 @@ Il risultato finale però potrebbe non soddisfare il cliente, perciò si introdu
 Perciò, alla definizione di Wysocki si può aggiungere che il risultato del progetto deve fornire il business value atteso.
 
 Cosa può produrre un progetto?
+
 - un prodotto o un suo componente
 - un servizio o un suo prerequisito
 - un processo aziendale
 - una versione migliorata dei precedenti
 - conoscenza (progetti di ricerca)
+
+## Definizione di Programma
+
+Insieme di **progetti correlati e gestiti in modo coordinato** per ottenere benefici ultreriori rispetto alla gestione individuale di progetti.
+Ciascun progetto è una componente del risultato finale del programma.
+
+Il **program management** consiste nella _gestione centrallizzata e coordinata_ del programma con l'obiettivo di raggiungere benefici **strategici**.
