@@ -103,3 +103,20 @@ Cambiamenti insidiosi e impercettibili che si possono riscontrare in un progetto
 - **Hope creep**: un membro del team nasconde il fatto di essere in ritardo e fa finta di nulla, convinto di poter recuperare.
 - **Effort creep**: un membro del team non ha una produttività adeguata e non ottiene il giusto progresso.
 - **Feature creep**: un membro del team aggiunge funzionalità non concordate credendole utili; siccome ciò che non è concordato non verrà sicuramente riconosciuto e potrebbe essere addirittura dannoso, è necessario richiedere l'autorizzazione, seguendo il giusto iter e interpellando il PM, l'architect e il cliente.
+
+## Classificazione dei progetti
+
+Applicare lo stesso approccio a tutti i progetti è dannoso alla loro riuscita.
+L'approccio va definito in base alla caratteristiche del progetto, ed è quindi necessaria una classificazione.
+
+Classificazione per:
+
+- **Dimensione**: costi, durata, ...
+- **Applicazione**: sviluppo sw, svilupoo nuovo prodotto, ...
+- **Tipo**: nuovo, manutenzione, aggiornamento, strategico, ...
+- **Complessità**
+- **Incertezza**
+- **Rischio**
+- **Business value**
+- **Durata**
+- ...
