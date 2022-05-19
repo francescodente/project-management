@@ -21,3 +21,9 @@ Approccio **organizzato** basato sul "buon senso" (bisogna adattare l'approccio 
 
 Cliente: responsabile della definizione del business value.
 Project Manager: responsabile del soddisfacimento dei requisiti.
+
+## Cosa sono i Requisiti?
+
+> Wysocki: Stato finale desiderato, la cui integrazione con successo nella soluzione fornisce un aumento specifico e misurabile di business value.
+
+Da notare il fatto che questa definizione contempla solo le soluzioni con un adeguato livello di business value.
