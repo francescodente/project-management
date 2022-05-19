@@ -27,3 +27,59 @@ Project Manager: responsabile del soddisfacimento dei requisiti.
 > Wysocki: Stato finale desiderato, la cui integrazione con successo nella soluzione fornisce un aumento specifico e misurabile di business value.
 
 Da notare il fatto che questa definizione contempla solo le soluzioni con un adeguato livello di business value.
+
+## Project Management Life Cycle
+
+### Modello di ciclo di vita del Project Management
+
+Sequenza di processi raggruppati nei seguenti 5 gruppi:
+
+- **Scoping**
+- **Planning**
+- **Execution (launching)**
+- **Monitoring & Controlling**
+- **Closing**
+
+Ogni gruppo deve apparire almeno una volta (quindi possono anche essere ripetuti).
+
+![](images/project_types.png)
+
+**TPM** = Traditional Project Management
+**xPM** = Extreme Project Management
+**APM** = Agile Project Management
+**MPx** = Emertxe Project Management
+
+![](images/pm_lifecycle_models.png)
+
+In base al grado di incertezza è possibile scegliere il modello di PM più adatto, tenendo presente che i modelli lineari/incrementali sono più adatti quando i requisiti/la soluzione sono più chiari, e in caso contrario sono più adatti approcci iterativi/adattivi.
+Inoltre, quando anche il goal tende a essere poco chiaro, può essere utile adottare un modello extreme per far fronte ai frequenti cambiamenti di scope.
+
+Da notare che i modelli seguono un ordinamento naturale rispetto al grado di incertezza nella soluzione.
+Più la soluzione è incerta, più aumenta il numero di processi da ripetere, il rischio e il grado di coinvolgimento del cliente.
+
+**Linear**:
+
+- Soluzione/requisiti chiari
+- Nessuna modifica rilevante dello scope
+- Uso di template consolidati
+
+**Incremental**:
+
+- Come linear, ma fornisce business value più frequentemente
+
+**Iterative**:
+
+- Requisiti instabili/incompleti
+- Si apprende strada facendo
+
+**Adaptive**:
+
+- Goal noto, ma non la soluzione
+- Forte influenza dai cambiamenti di scope
+- Adatto allo sviluppo di nuovi prodotti
+
+**Extreme**:
+
+- Obiettivo e soluzione non conosciuti
+- Si converge iterando
+- Adatto per i progetti di ricerca e sviluppo
