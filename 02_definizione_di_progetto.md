@@ -68,3 +68,29 @@ Strettamente legato al concetto di **Conditions of satisfaction**.
 - **Qualità del processo**: riferita al processo di gestione del progetto.
 
 La corretta gestione della qualità consente di **garantire la soddisfazione** del cliente e di usare le risorse in modo **efficace** ed **efficiente**.
+
+## Scope Triangle
+
+![](images/scope_triangle.png)
+
+È un sistema in equilibrio, dove le lunghezze dei lati corrispondono alle quantità di risorse disponibili e **limitano lo scope e la qualità del progetto**.
+Modificare le variabili potrebbe portare il sistema a non essere in equilibrio.
+
+- **Project Impact Statement**: stabilisce come affrontare le possibili modifiche di scope richieste dal cliente.
+- **Problem Escalation Strategy**: stabilisce la strategia con cui affrontare la soluzione dei problemi.
+
+### Problem Escalation Strategy
+
+_Who owns what?_
+Rispondere a questa domanda permette di individuare il percorso di risoluzione dei problemi.
+
+Responsabilità:
+
+- **cliente e senior management**: controllo di tempo, budget e risorse;
+- **team di progetto**: conoscenza di come vengono usati tempo budget e risorse.
+
+Passi:
+
+1. PM trova una soluzione nei vincoli di tempo/budget
+2. PM chiede di riallocare le risorse
+3. PM ricontatta il cliente per rinegoziare budget, tempo e/o risorse
