@@ -94,3 +94,12 @@ Passi:
 1. PM trova una soluzione nei vincoli di tempo/budget
 2. PM chiede di riallocare le risorse
 3. PM ricontatta il cliente per rinegoziare budget, tempo e/o risorse
+
+## Creeps
+
+Cambiamenti insidiosi e impercettibili che si possono riscontrare in un progetto e che sono spesso dovuti al team stesso.
+
+- **Scope creep**: cambiamento rispetto al piano originario, potrebbe non essere dovuto al team o al cliente, ma semplicemente a necessità di mercato.
+- **Hope creep**: un membro del team nasconde il fatto di essere in ritardo e fa finta di nulla, convinto di poter recuperare.
+- **Effort creep**: un membro del team non ha una produttività adeguata e non ottiene il giusto progresso.
+- **Feature creep**: un membro del team aggiunge funzionalità non concordate credendole utili; siccome ciò che non è concordato non verrà sicuramente riconosciuto e potrebbe essere addirittura dannoso, è necessario richiedere l'autorizzazione, seguendo il giusto iter e interpellando il PM, l'architect e il cliente.
