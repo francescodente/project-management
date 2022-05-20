@@ -56,3 +56,8 @@ Processi:
 - Ottenere l'**approvazione** del cliente
 - Scrivere il **rapporto finale**
 - Verificare **post-implementazione**
+
+## PMLC e Proccess Groups
+
+I process groups non corrispondono direttamente alle fasi del PMLC, ma possono essere mappati in modo articolato per creare un PMLC.
+Infatti i process groups non sono sequenziali, ma possono sovrapporsi e interagire tra loro durante il ciclo di vita.
